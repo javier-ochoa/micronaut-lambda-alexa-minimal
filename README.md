@@ -1,0 +1,1 @@
+#micronaut-lambda-alexa-minimal
